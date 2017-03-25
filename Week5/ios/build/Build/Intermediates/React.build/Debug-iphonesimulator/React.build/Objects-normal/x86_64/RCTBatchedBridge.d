@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/J1/Twitch/Week5/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/J1/Twitch/Week5/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/J1/Twitch/Week5/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Modules/RCTDevLoadingView.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/J1/Twitch/Week5/node_modules/react-native/React/Base/RCTUtils.h
